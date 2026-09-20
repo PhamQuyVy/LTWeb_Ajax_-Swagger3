@@ -1,0 +1,8 @@
+target/
+uploads/products/*
+uploads/categories/*
+!uploads/products/.gitkeep
+!uploads/categories/.gitkeep
+.vscode/
+*.log
+run.log
